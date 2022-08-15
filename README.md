@@ -71,6 +71,9 @@ EDA is based on graphical and descriptive techniques whose objective is to:
 6. There is correlation between injury cases and hours worked, dafw cases (days away from work) and djtr cases (job transfers or restrictions).
 
 … but the most important one:
-**Data Cleaning and Data Pre-processing part is essential.
+
+**Data Cleaning and Data Pre-processing part is essential.**
+
 Figh with your data, will make it to confess their secrets.
-Correct insights can only be extracted if you have good data.**
+
+Correct insights can only be extracted if you have good data.
