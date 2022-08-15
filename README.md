@@ -49,14 +49,23 @@ EDA is based on graphical and descriptive techniques whose objective is to:
 
 ## 7. Technology Stack
 ❖ Python (Jupyter)
-❖ Web Scrapping / Requests / BeautifulSoùp
+
+❖ Web Scrapping / Requests / BeautifulSoup
+
 ❖ Numpy, Pandas, Pickle
+
 ❖ Data wrangling. Main functions:
+
     ▪ import_data(), combine_csv()
+    
     ▪ df_clean_format(** kwargs parameters)
+    
 ❖ EDA and descriptive statistics techniques
+
 ❖ Matplotlib, Seaborn
+
 ❖ PowerBi
+
 ❖ …
 
 ## 8. Processed Data Results
