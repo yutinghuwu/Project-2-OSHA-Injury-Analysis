@@ -7,24 +7,34 @@ Within this project we will analyze data of work-related injuries and illnesses 
 The objective is to explore the officially reported data from OSHA to have insights that can serve to spread awareness and contribute to improve workplace health & safety, and eventually save people lives.
 
 Companies may also take these insights into consideration to:
+
 ✓ see relative level of injuries and illnesses among different industries
+
 ✓ understand why employees are suffering from injuries (which sometimes cause fatalities)
+
 ✓ determine problem areas and progress in preventing work-related injuries and illnesses
+
 
 ## 2. Data source
 Data is extracted from OSHA (Occupational Safety and Health Administration), which is the federal agency of the United States, part of the United States Department of Labor, that regulates workplace safety and health:
+
 https://www.osha.gov/Establishment-Specific-Injury-and-Illness-Data
 
 ## 3. Incident Rate
 As per US Bureau of Labor Statistics, an incidence rate of injuries and illnesses is computed from the following formula:
 
 𝑇𝐶𝑅 = (𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑖𝑛𝑗𝑢𝑟𝑖𝑒𝑠 𝑎𝑛𝑑 𝑖𝑙𝑙𝑛𝑒𝑠𝑠 𝑥 200,000)/𝐸𝑚𝑝𝑙𝑜𝑦𝑒𝑒 ℎ𝑜𝑢𝑟𝑠 𝑤𝑜𝑟𝑘𝑒𝑑
+
 𝐷𝐴𝑅𝑇 = (Number of injuries and illnesses with days away from work, job transfer, or restriction 𝑥 200,000)/𝐸𝑚𝑝𝑙𝑜𝑦𝑒𝑒 ℎ𝑜𝑢𝑟𝑠 𝑤𝑜𝑟𝑘𝑒𝑑
 
+
 Notes:
+
 ‐ The 200,000 hours in the formula represents the equivalent of 100 employees working 40 hours per week, 50 weeks
 per year, and provides the standard base for the incidence rates).
+
 ‐ Hours worked should not include any nonwork time, even though paid, such as vacation, sick leave, holidays, etc.
+
 
 ## 4. Raw Data Exploration
 
@@ -41,11 +51,17 @@ Thus, despite dataset quality is good, it is highly advised to process and forma
 After processing the raw data, we will use the clean dataset output to perform EDA (Exploratory Data Analysis), to plot
 our variables in order to extract meaningful insights and conclusions about our data, by means of visual explorations.
 EDA is based on graphical and descriptive techniques whose objective is to:
+
 ✓ gain intuition about the data
+
 ✓ detect outliers
+
 ✓ extract important variables
+
 ✓ discover underlying structures in the data
+
 ✓ It also allows organizing the data, detecting failures and evaluating the existence of missing data
+
 
 ## 7. Technology Stack
 ❖ Python (Jupyter)
@@ -72,6 +88,7 @@ EDA is based on graphical and descriptive techniques whose objective is to:
 
 
 ## 9. Conclusions
+
 1. 2020 has the highest number of recorded injury/illness and TCR.
 2. TCR is very similar for all recorded years.
 3. USPS is the company that registered highest number of total injuries, followed by Walmart.
