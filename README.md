@@ -98,8 +98,4 @@ EDA is based on graphical and descriptive techniques whose objective is to:
 
 … but the most important one:
 
-**Data Cleaning and Data Pre-processing part is essential.**
-
-Figh with your data, will make it to confess their secrets.
-
-Correct insights can only be extracted if you have good data.
+**Data Cleaning and Data Pre-processing part is essential. Fighting with your data, will make it to confess their secrets. Correct insights can only be extracted if you have good data.**
