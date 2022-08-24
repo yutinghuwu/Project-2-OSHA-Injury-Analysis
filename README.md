@@ -35,11 +35,7 @@ per year, and provides the standard base for the incidence rates).
 
 ‐ Hours worked should not include any nonwork time, even though paid, such as vacation, sick leave, holidays, etc.
 
-
-## 4. Raw Data Exploration
-
-
-## 5. Data Processing
+## 4. Data Processing
 In any data science project, data wrangling is a very important step, since it removes the risk by ensuring data is
 in a reliable state before it is analyzed and leveraged, making it to be a critical part of the analytical process. 
 
@@ -47,7 +43,7 @@ Thus, despite dataset quality is good, it is highly advised to process and forma
 ✓ Clean the data: by keeping only the columns that are meaningful for the analysis; and use statistics to detect and remove outliers with reference to its interquartile range.
 ✓ Format the data, such as data conversion, remove negative numeric values, filling empty values, removing special characters, standardize company name, etc.
 
-## 6. Exploratory Data Analysis
+## 5. Exploratory Data Analysis
 After processing the raw data, we will use the clean dataset output to perform EDA (Exploratory Data Analysis), to plot
 our variables in order to extract meaningful insights and conclusions about our data, by means of visual explorations.
 EDA is based on graphical and descriptive techniques whose objective is to:
@@ -63,7 +59,7 @@ EDA is based on graphical and descriptive techniques whose objective is to:
 ✓ It also allows organizing the data, detecting failures and evaluating the existence of missing data
 
 
-## 7. Technology Stack
+## 6. Technology Stack
 ❖ Python (Jupyter)
 
 ❖ Web Scrapping / Requests / BeautifulSoup
@@ -84,10 +80,9 @@ EDA is based on graphical and descriptive techniques whose objective is to:
 
 ❖ …
 
-## 8. Processed Data Results
 
-
-## 9. Conclusions
+## 7. Conclusions
+After processing the data, following conclusions could be extraced from the data:
 
 1. 2020 has the highest number of recorded injury/illness and TCR.
 2. TCR is very similar for all recorded years.
