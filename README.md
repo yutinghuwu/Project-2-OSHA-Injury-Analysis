@@ -58,6 +58,7 @@ EDA is based on graphical and descriptive techniques whose objective is to:
 
 ✓ It also allows organizing the data, detecting failures and evaluating the existence of missing data
 
+Output file and PowerBi files can be accessed from [here](https://drive.google.com/drive/folders/1NHBWK2V-21r8nORahwaoo_a92_MS286u?usp=sharing)
 
 ## 6. Technology Stack
 ❖ Python (Jupyter)
