@@ -67,11 +67,7 @@ Output file and PowerBi files are uploaded in Drive due to size restrictions. [F
 
 ❖ Numpy, Pandas, Pickle
 
-❖ Data wrangling. Main functions:
-
-    ▪ import_data(), combine_csv()
-    
-    ▪ df_clean_format(** kwargs parameters)
+❖ Data wrangling
     
 ❖ EDA and descriptive statistics techniques
 
